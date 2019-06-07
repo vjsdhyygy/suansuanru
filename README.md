@@ -1,5 +1,8 @@
 # suansuanru
 酸酸备份
 
-`wget https://git.io/fjzch &&  bash install.sh`
+````shell
+wget https://git.io/fjzch -O install.sh
+bash install.sh
+````
 
