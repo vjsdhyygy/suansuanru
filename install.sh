@@ -48,7 +48,7 @@ shadowsocks_python_url="https://github.com/shadowsocks/shadowsocks/archive/maste
 shadowsocks_python_init="/etc/init.d/shadowsocks-python"
 shadowsocks_python_config="/etc/shadowsocks-python/config.json"
 shadowsocks_python_centos="https://raw.githubusercontent.com/vjsdhyygy/suansuanru/master/centos"
-shadowsocks_python_debian="https://raw.githubusercontent.com/vjsdhyygy/suansuanru/master/centos/master/debian"
+shadowsocks_python_debian="https://raw.githubusercontent.com/vjsdhyygy/suansuanru/master/debian"
 
 shadowsocks_r_file="shadowsocksr-3.2.2"
 shadowsocks_r_url="https://github.com/shadowsocksrr/shadowsocksr/archive/3.2.2.tar.gz"
